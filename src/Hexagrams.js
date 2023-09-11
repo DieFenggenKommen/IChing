@@ -3201,7 +3201,7 @@ export default {
     },
     {
       number: 62,
-      pattern: "001010",
+      pattern: "001100",
       name: "Zu wenig",
       introduction:
         "Yo, hier geht nur wenig voran, aber bleib dran, Bro. Nur kleine Moves sind drin, die großen Pläne müssen warten. Chill unten, oben ist nicht der Platz, weißt du? Mega Glück, wenn du easy bleibst.",
