@@ -1,6 +1,6 @@
 import PropTypes from "prop-types";
-import kopf from "./assets/kopf.png";
-import zahl from "./assets/zahl.png";
+import kopf from "./assets/Kopf.png";
+import zahl from "./assets/Zahl.png";
 
 export default function ShowWurf(props) {
   const { wurf } = props;
